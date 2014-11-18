@@ -444,7 +444,7 @@ html {
 /* line 8, ../sass/main.scss */
 body {
   background-color: rgba(0, 0, 0, 0.91);
-  background: linear-gradient(145deg, rgba(120, 40, 40, 0.96) 1%, rgba(0, 0, 0, 0.96) 90%);
+  background: linear-gradient(145deg, rgba(45, 42, 42, 0.96) 1%, rgba(0, 0, 0, 0.96) 90%);
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
 }
